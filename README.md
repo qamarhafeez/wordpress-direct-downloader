@@ -1,4 +1,4 @@
-Wordpress Direct Downloader
+#Wordpress Direct Downloader
 
 A php script to download and extract wordpress files to the server while installing wordpress
 
